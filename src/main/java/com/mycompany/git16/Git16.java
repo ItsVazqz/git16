@@ -12,6 +12,6 @@ package com.mycompany.git16;
 public class Git16 {
 
     public static void main(String[] args) {
-        System.out.println("Hoy es jueves");
+        System.out.println("Hoy es jueves y mañana es viernes");
     }
 }
